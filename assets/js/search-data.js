@@ -398,15 +398,15 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-website-created",
+          title: 'Website Created!',
+          description: "",
+          section: "News",},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-website-created",
-          title: 'Website Created!',
-          description: "",
-          section: "News",},{
+            },},{
         id: 'social-cv',
         title: 'CV',
         section: 'Socials',
